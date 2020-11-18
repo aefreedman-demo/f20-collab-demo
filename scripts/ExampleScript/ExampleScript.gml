@@ -3,6 +3,7 @@
 function ExampleScript(){
 	// stuff
 	// i also added a line to this script
+	// look i added a line of stuff in this project wow
 }
 
 function AnotherFunction() {}
