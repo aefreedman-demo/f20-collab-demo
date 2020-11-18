@@ -5,6 +5,7 @@
     {"id":{"name":"spr_blue","path":"sprites/spr_blue/spr_blue.yy",},"order":1,},
     {"id":{"name":"obj_model","path":"objects/obj_model/obj_model.yy",},"order":1,},
     {"id":{"name":"spr_red","path":"sprites/spr_red/spr_red.yy",},"order":2,},
+    {"id":{"name":"ExampleScript","path":"scripts/ExampleScript/ExampleScript.yy",},"order":1,},
     {"id":{"name":"spr_purple","path":"sprites/spr_purple/spr_purple.yy",},"order":3,},
     {"id":{"name":"Sleep","path":"scripts/Sleep/Sleep.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
